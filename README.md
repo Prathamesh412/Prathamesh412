@@ -46,15 +46,15 @@ The crossover between design and programming is where I thrive. As a **Solution 
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prathamesh412&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
+</div> -->
 
 ---
 
-### 🏆 Github Profile Trophy
-<div align="center">
+
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Prathamesh412&column=7&theme=flat&no-bg=true" />
   </a>
-</div>
+</div> -->
